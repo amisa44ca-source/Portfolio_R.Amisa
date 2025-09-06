@@ -21,3 +21,5 @@ Welcome! This repoisory contains my personal projects, showcasing my research wo
 - Exploring analysis of death scenerios
 - Includes detaied observations
 - Demostrates initiative , attention to details, and analytical thinking 
+
+(Profile picture is a painting made by Ram Gopal Vijayvargiya. Used for aesthetic purposes.)
