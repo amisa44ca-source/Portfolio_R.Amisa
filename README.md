@@ -15,6 +15,9 @@ Welcome! This repoisory contains my personal projects, showcasing my research wo
 ### 3. Poetry
 - Published works on Medium.
 - Based on truth under pressure.
-- Highlights creative writing and emotional expression.
+- Highlights creative writing and emotional expression
 
-
+### 4. Forensic reports
+-Exploring analysis of death scenerios
+-Includes detaied observations
+-Demostrates initiative , attention to details, and analytical thinking 
