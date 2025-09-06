@@ -18,6 +18,6 @@ Welcome! This repoisory contains my personal projects, showcasing my research wo
 - Highlights creative writing and emotional expression
 
 ### 4. Forensic reports
--Exploring analysis of death scenerios
--Includes detaied observations
--Demostrates initiative , attention to details, and analytical thinking 
+- Exploring analysis of death scenerios
+- Includes detaied observations
+- Demostrates initiative , attention to details, and analytical thinking 
