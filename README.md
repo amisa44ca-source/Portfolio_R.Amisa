@@ -1,6 +1,5 @@
 # Portfolio_R.Amisa 
-Ruhi's Portfolio 
-Welcome! This repoisory contains my personal projects, showcasing my research works, creative writing and art. This portfolio reflects my initiative, curiosity, and dedication to building skills beyond the classroom.
+Welcome to my portfolio! This repoisory contains my personal projects, showcasing my research works, creative writing and art. This portfolio reflects my initiative, curiosity, and dedication to building skills beyond the classroom.
 
 ### 1. Zooniverse Projects
 - Observations and data analysis from various biology projects.
