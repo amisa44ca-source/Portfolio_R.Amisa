@@ -6,10 +6,9 @@ Welcome to my portfolio! This repoisory contains my personal projects, showcasin
 - Includes Excel/Google Sheets logs and summaries.
 - Demonstrates skills in data collection, scientific observation, and analytical thinking.
 
-### 2. Art
-- Traditional Indian/Bengali-style artworks inspired by Ram Gopal Vijayvargiya.
-- Semi-realistic sketches.
-- Shows creativity and dedication to developing multiple art styles.
+### 2. Forensiic Art
+- Part of a forensic anatomy illustration series exploring healthy vs pathological organ
+- Blend artistic skill with anatomical understanding.
 
 ### 3. Poetry
 - Published works on Medium.
