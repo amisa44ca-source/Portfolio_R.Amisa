@@ -6,7 +6,7 @@ Welcome to my portfolio! This repoisory contains my personal projects, showcasin
 - Includes Excel/Google Sheets logs and summaries.
 - Demonstrates skills in data collection, scientific observation, and analytical thinking.
 
-### 2. Forensiic Art
+### 2. Forensic Art
 - Part of a forensic anatomy illustration series exploring healthy vs pathological organ
 - Blend artistic skill with anatomical understanding.
 
