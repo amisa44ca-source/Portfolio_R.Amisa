@@ -2,17 +2,16 @@
 Welcome to my portfolio! This repoisory contains my personal projects, showcasing my research works, creative writing and art. This portfolio reflects my initiative, curiosity, and dedication to building skills beyond the classroom.
 
 ### 1. Zooniverse Projects
-- Observations and data analysis from various biology projects.
-- Includes Excel/Google Sheets logs and summaries.
+- Observations and data analysis from various projects.
+- Includes Excel/Google Sheets logs, charts, and summaries.
 - Demonstrates skills in data collection, scientific observation, and analytical thinking.
 
 ### 2. Forensic Art
-- Part of a forensic anatomy illustration series exploring healthy vs pathological organ
-- Blend artistic skill with anatomical understanding.
+- Srawings related to forensic field.
+- Blend artistic skill with anatomical understanding and criminological knowledge.
 
 ### 3. Poetry
 - Published works on Medium.
-- Based on truth under pressure.
 - Highlights creative writing and emotional expression
 
 ### 4. Forensic reports
