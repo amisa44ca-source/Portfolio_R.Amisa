@@ -19,4 +19,4 @@ Welcome to my portfolio! This repoisory contains my personal projects, showcasin
 - Includes detaied observations
 - Demostrates initiative , attention to details, and analytical thinking 
 
-(Profile picture is a painting made by Ram Gopal Vijayvargiya. Used for aesthetic purposes.)
+
