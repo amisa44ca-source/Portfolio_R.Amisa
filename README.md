@@ -17,6 +17,10 @@ Welcome to my portfolio! This repoisory contains my personal projects, showcasin
 ### 4. Forensic reports
 - Exploring analysis of death scenerios
 - Includes detaied observations
-- Demostrates initiative , attention to details, and analytical thinking 
+- Demostrates initiative , attention to details, and analytical thinking
+
+### 5. Research logs
+- A chronological record of experiments, observations, and findings for research projects
+- Tracking improvements and thinking patterns
 
 
