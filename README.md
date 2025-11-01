@@ -4,7 +4,7 @@ Welcome to my portfolio! This repoisory contains my personal projects, showcasin
 ### 1. Zooniverse Projects
 - Observations and data analysis from various projects.
 - Includes Excel/Google Sheets logs, charts, and summaries.
-- Demonstrates skills in data collection, scientific observation, and analytical thinking.
+
 
 ### 2. Forensic Art
 - Srawings related to forensic field.
