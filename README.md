@@ -8,7 +8,7 @@ Welcome to my portfolio! This repoisory contains my personal projects, showcasin
 
 ### 2. Forensic Art
 - Srawings related to forensic field.
-- Blend artistic skill with anatomical understanding and criminological knowledge.
+- Blend artistic skill criminological knowledge.
 
 ### 3. Poetry
 - Published works on Medium.
