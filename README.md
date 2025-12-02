@@ -10,16 +10,13 @@ Welcome to my portfolio! This repoisory contains my personal projects, showcasin
 - Srawings related to forensic field.
 - Blend artistic skill criminological knowledge.
 
-### 3. Poetry
-- Published works on Medium.
-- Highlights creative writing and emotional expression
 
-### 4. Forensic reports
+### 3. Forensic reports
 - Exploring analysis of death scenerios
 - Includes detaied observations
 - Demostrates initiative , attention to details, and analytical thinking
 
-### 5. Research logs
+### 4. Research logs
 - A chronological record of experiments, observations, and findings for research projects
 - Tracking improvements and thinking patterns
 
