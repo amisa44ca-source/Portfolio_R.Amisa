@@ -9,6 +9,7 @@ Welcome to my portfolio! This repoisory contains my personal projects, showcasin
 ### 2. Forensic Art
 - Srawings related to forensic field.
 - Blend artistic skill criminological knowledge.
+- However, it is currently paused. I explored it for some time and realized I’m more drawn to cases and analysis rather than documentation
 
 
 ### 3. Forensic reports
